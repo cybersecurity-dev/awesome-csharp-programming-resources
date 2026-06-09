@@ -30,7 +30,8 @@
 ### Books
 
 ### Videos
-
+- [Everything You Need to Know About the Latest in C#](https://youtu.be/jRJa83DeOd8?si=3rWZ-7x3rYqVePnU)
+ 
 ##
 
 ### My Other Awesome Lists
@@ -41,5 +42,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-csharp-programming-resources/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-c-programming-resources-)
